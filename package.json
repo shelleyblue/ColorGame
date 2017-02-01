@@ -1,0 +1,8 @@
+{
+  "name": "ColorGame",
+  "description": "Color Game to Heroku app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
